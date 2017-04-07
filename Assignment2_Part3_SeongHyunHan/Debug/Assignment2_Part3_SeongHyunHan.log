@@ -1,0 +1,10 @@
+﻿  VectorQueue.cpp
+f:\prog23672\assignment2_part3_seonghyunhan\vectorqueue.h(13): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part3_seonghyunhan\vectorqueue.h(14): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part3_seonghyunhan\vectorqueue.h(16): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part3_seonghyunhan\vectorqueue.h(33): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part3_seonghyunhan\vectorqueue.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part3_seonghyunhan\vectorqueue.h(49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part3_seonghyunhan\vectorqueue.h(56): warning C4018: '<': signed/unsigned mismatch
+  Assignment2_Part3_SeongHyunHan.vcxproj -> F:\PROG23672\Assignment2_Part3_SeongHyunHan\Debug\Assignment2_Part3_SeongHyunHan.exe
+  Assignment2_Part3_SeongHyunHan.vcxproj -> F:\PROG23672\Assignment2_Part3_SeongHyunHan\Debug\Assignment2_Part3_SeongHyunHan.pdb (Partial PDB)

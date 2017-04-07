@@ -1,0 +1,9 @@
+﻿  MySLinkedList.cpp
+f:\prog23672\assignment2_part2_seonghyunhan\mylinkedlist.h(29): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  f:\prog23672\assignment2_part2_seonghyunhan\mylinkedlist.h(35): note: see reference to class template instantiation 'MySLinkedList<E>' being compiled
+f:\prog23672\assignment2_part2_seonghyunhan\mylinkedlist.h(30): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part2_seonghyunhan\myslinkedlist.cpp(70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part2_seonghyunhan\myslinkedlist.cpp(80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+f:\prog23672\assignment2_part2_seonghyunhan\myslinkedlist.cpp(107): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Assignment2_Part2_SeongHyunHan.vcxproj -> F:\PROG23672\Assignment2_Part2_SeongHyunHan\Debug\Assignment2_Part2_SeongHyunHan.exe
+  Assignment2_Part2_SeongHyunHan.vcxproj -> F:\PROG23672\Assignment2_Part2_SeongHyunHan\Debug\Assignment2_Part2_SeongHyunHan.pdb (Partial PDB)
